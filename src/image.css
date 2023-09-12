@@ -1,0 +1,5 @@
+.image1{
+    background: linear-gradient(180deg,violet,indigo,blue,green,yellow,orange,red);
+    border-radius: 50%;
+    padding: 7px;
+}
